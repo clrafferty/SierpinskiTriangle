@@ -19,9 +19,9 @@ if (len<1){
 }
 public void mouseDragged()//optional
 {
-x+=2;
-y-=2;
-len-=2;
+x+=5;
+y-=5;
+len-=5;
 }
 public void sierpinski(int x, int y, int len) 
 {
